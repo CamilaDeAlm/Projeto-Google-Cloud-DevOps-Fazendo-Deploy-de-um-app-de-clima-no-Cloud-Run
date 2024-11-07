@@ -3,6 +3,8 @@ Orquestração de aplicativo de clima em tempo real, usando o google cloud platf
 criação, teste e implantação de aplicações na nuvem. Criando a imagem no Docker, compartilhando a imagem no Artifact Registry que é um serviço que permite armazenar, gerenciar e 
 compartilhar pacotes e imagens de contêiner. Finalizando, com a execução da aplicação no Cloud Run.
 
+Objetivo do projeto é implementar a orquestração, utilizando as ferramentas do GCP.
+
 ## Etapas:
 1)API do OpenWeather
 
